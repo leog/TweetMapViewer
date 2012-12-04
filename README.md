@@ -53,11 +53,12 @@ var twit = new twitter({
 });
 ``` 
 
-4. Install the dependencies: 
+## Running the application:
+1. Install the dependencies: 
 ```text
 npm install
 ```
-5. Run the application: 
+2. Run the application: 
 ```text
 node app.js
 ```

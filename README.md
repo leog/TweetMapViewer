@@ -55,11 +55,11 @@ var twit = new twitter({
 
 ## Running the application:
 1. Install the dependencies: 
-```text
+```
 npm install
 ```
 2. Run the application: 
-```text
+```
 node app.js
 ```
 
